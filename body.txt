@@ -1,3 +1,3 @@
-DAY 1111111
-BRITH 00
-After Editing 
+My Name: Ahmed said Mohamed gad 
+My Age : 19
+this is a trail file to test my push skill at terminal 
